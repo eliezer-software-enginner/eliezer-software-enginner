@@ -32,5 +32,5 @@ Meu foco é construir soluções **simples, reutilizáveis e orientadas a produt
 
 ## 📫 Contato
 - GitHub: https://github.com/eliezer-software-enginner
-- LinkedIn: (adicione aqui)
-- Blog / Portfólio: (opcional)
+- LinkedIn: https://www.linkedin.com/in/eliezersoftwareenginner/
+- Blog / Portfólio: https://portifolio-phi-three.vercel.app/
