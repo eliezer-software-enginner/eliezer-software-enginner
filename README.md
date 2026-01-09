@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou Eliezer
 
-<!--
-**eliezer-software-enginner/eliezer-software-enginner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor focado em **React / Next.js**, com background sólido em **Java** e experiência criando **frameworks e abstrações próprias** para acelerar desenvolvimento e manter código limpo.
 
-Here are some ideas to get you started:
+Meu foco é construir soluções **simples, reutilizáveis e orientadas a produto**, evitando complexidade desnecessária.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 O que estou fazendo atualmente
+- Criando projetos para portfólio com foco em **problemas reais**
+- Desenvolvendo bibliotecas próprias em **JavaFX**
+- Estudando padrões modernos usados no mercado frontend
+
+---
+
+## 🧠 Stack principal
+- **Frontend:** React, Next.js, TypeScript  
+- **Backend:** Java, Spring Boot, Node.js  
+- **Desktop:** JavaFX (sem FXML)  
+- **Banco de dados:** MongoDB, SQLite  
+- **Mensageria:** RabbitMQ  
+- **Outros:** Git, GitHub Actions
+
+---
+
+## 📌 Projetos em destaque
+- 🔧 **megalodonte-router** – Router declarativo para JavaFX  
+- 🧩 **megalodonte-ui** – Componentes reutilizáveis inspirados em Jetpack Compose  
+- 📦 **Sistema de estoque** – Projeto simples focado em regra de negócio
+
+---
+
+## 📫 Contato
+- GitHub: https://github.com/eliezer-software-enginner
+- LinkedIn: (adicione aqui)
+- Blog / Portfólio: (opcional)
